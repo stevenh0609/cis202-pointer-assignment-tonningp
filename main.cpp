@@ -1,14 +1,5 @@
-/*
-   File: main.cpp
-   Description: 
-   Author:
-   Email:
-*/
-#include<iostream>
+#include <iostream>
 
-using namespace std;
-
-int main()
-{
-   return 0;
+int main() {
+  std::cout << "Hello World!\n";
 }
